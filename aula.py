@@ -12,4 +12,4 @@ else:
     parcela = valor_principal / numero_parcelas 
 
 
-print(f"O valor da parcela mensal é: R${parcela:.2f}")
+print(f"O valor da parcela mensal é: R${parcela}")
